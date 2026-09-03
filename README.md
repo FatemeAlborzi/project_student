@@ -1,4 +1,4 @@
 # Student Project
 
-A simple Python project for learning Git and GitHub.
+This project is for practicing Git and GitHub.
 Cloned repository test.
