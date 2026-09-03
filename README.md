@@ -1,4 +1,4 @@
 # Student Project
 
-This project is for practicing Git and GitHub.
+This version is edited on main branch.
 Cloned repository test.
