@@ -58,6 +58,20 @@ python student.py
 
 Repository name: `project_student`
 
+## Public, Private and Collaborator
+
+- A Public repository can be viewed by anyone.
+- A Private repository can only be accessed by the owner and authorized users.
+- A Collaborator has permission to contribute to the repository, while a normal visitor of a Public repository can only view or clone it unless additional permissions are granted.
+
+## GitHub Authentication
+
+GitHub does not use the normal account password for Git operations over HTTPS.
+Personal Access Tokens provide more secure and limited access and can be revoked without changing the account password.
+
+SSH authentication uses a public/private key pair.
+Only the public key is added to GitHub, and the private key must never be shared or committed to a repository.
+
 ## Author
 
 Fateme Alborzi
