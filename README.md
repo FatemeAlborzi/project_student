@@ -13,3 +13,20 @@ Run the main Python file:
 ```bash
 python main.py
 ```
+## Git Concepts Used
+- Repository
+- Commit
+- Amend
+- Branch
+- Merge
+- Revert
+- Stash
+- Remote
+- Push
+- Pull
+- Clone
+- Merge Conflict
+- SSH Authentication
+
+## Author
+Fateme Alborzi
