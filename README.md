@@ -54,6 +54,19 @@ python student.py
 - Testing SSH authentication with GitHub
 - Changing the Git remote URL from HTTPS to SSH
 
+## Authentication Notes
+
+GitHub does not use the normal account password for Git operations over HTTPS.
+A Personal Access Token (PAT) is safer because its permissions can be limited,
+it can have an expiration date, and it can be revoked without changing the
+GitHub account password.
+
+For SSH authentication, GitHub uses a public/private key pair.
+The public key can be added to GitHub, while the private key must always remain
+secret and must never be committed to a repository.
+
+This project also uses an SSH remote for GitHub authentication.
+
 ## Repository
 
 Repository name: `project_student`
